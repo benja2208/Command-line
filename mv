@@ -1,0 +1,7 @@
+There are two main ways of using the mv command:
+
+1) mv renames the original file to the destination path renamed. This form of the mv command is assumed when the operator does not name an already existing directory
+
+2) mv moves each file named to a destination file in the existing directory.
+
+see man mv for more details
